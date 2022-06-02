@@ -19,6 +19,10 @@ Paul Barker
 
 * [GitHub: @pbrkr](https://github.com/pbrkr/)
 
+## Posts
+
+* [2022-06-02: First Light](/posts/2022-06-02-first-light.md)
+
 ## License
 
 Copyright (c) 2022 Paul Barker
