@@ -13,6 +13,12 @@ building and maintaining my home network.
 Paul Barker
 [:envelope:](mailto:paul@pbarker.dev)
 
+* [Mastodon: @pbarker@social.afront.org](https://social.afront.org/web/@pbarker)
+
+* [Twitter: @pbarker_dev](https://twitter.com/pbarker_dev)
+
+* [GitHub: @pbrkr](https://github.com/pbrkr/)
+
 ## License
 
 Copyright (c) 2022 Paul Barker
