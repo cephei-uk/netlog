@@ -23,6 +23,8 @@ Paul Barker
 
 * [2022-06-02: First Light](/posts/2022-06-02-first-light.md)
 
+* [2022-06-05: alpha.cephei.uk](/posts/2022-06-05-alpha.cephei.uk.md)
+
 ## License
 
 Copyright (c) 2022 Paul Barker
