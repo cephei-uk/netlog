@@ -27,6 +27,8 @@ Paul Barker
 
 * [2022-07-02: Routing, DHCP and DNS](/posts/2022-07-02-routing-dhcp-and-dns.md)
 
+* [2022-07-03: Further config for alpha.cephei.uk](/posts/2022-07-03-further-config-alpha.cephei.uk.md)
+
 ## License
 
 Copyright (c) 2022 Paul Barker
